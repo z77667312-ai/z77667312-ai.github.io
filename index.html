@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="google-site-verification" content="7I29jCAnSsV0K-Er_10MD7PTQ8dsUyvGEMwiSNfvNeI" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+    }
+
+    /* 顶部宣传图 */
+    .promo-banner {
+      width: 100%;
+      height: auto;
+      max-height: 400px;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* App 信息容器 */
+    .app-section {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    /* 左侧文字部分 */
+    .app-info {
+      flex: 1;
+      display: flex;
+      align-items: flex-start;
+      gap: 15px;
+    }
+
+    .app-icon {
+      width: 80px;
+      height: 80px;
+      border-radius: 16px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      flex-shrink: 0;
+    }
+
+    .app-text h2 {
+      margin: 0 0 10px;
+      font-size: 1.5rem;
+    }
+
+    .app-text p {
+      margin: 0;
+      font-size: 1rem;
+      color: #555;
+      line-height: 1.5;
+    }
+
+    /* 右侧宣传图 */
+    .app-promo {
+      flex: 1;
+      text-align: center;
+    }
+
+    .app-promo img {
+      width: 300px;   /* 固定宽度 */
+      max-width: 100%; /* 不超过容器 */
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    /* 手机端优化 */
+    @media (max-width: 768px) {
+      .app-section {
+        flex-direction: column;
+        text-align: center;
+      }
+      .app-info {
+        justify-content: center;
+      }
+      .app-text h2 {
+        font-size: 1.2rem;
+      }
+      .app-text p {
+        font-size: 0.95rem;
+      }
+      .app-promo img {
+        width: 100%; /* 手机端铺满 */
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 顶部宣传图 -->
+  <img src="images/pic.jpg" alt="宣传图" class="promo-banner">
+
+  <!-- App 1 -->
+  <div class="app-section">
+    <div class="app-info">
+      <img src="images/logo.png" alt="App1图标" class="app-icon">
+      <div class="app-text">
+        <h2>Fusion Ball：Candy Bloom</h2>
+        <p>Drop, collide, and merge candies to grow bigger sweets and reach success.</p>
+      </div>
+    </div>
+    <div class="app-promo">
+      <img src="images/info.png" alt="App1宣传图">
+    </div>
+  </div>
+
+</body>
+</html>
