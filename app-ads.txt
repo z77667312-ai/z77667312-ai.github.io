@@ -907,9 +907,51 @@ rubiconproject.com, 27538, RESELLER, 0bfd66d529a55807
 playdigo.com, 2091, RESELLER, 92011346d63d3c30
 adnimation.com, 20250084, RESELLER
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
+pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
 #mintegral end
 
 #unity start
+voisetech.com, 1066, RESELLER
+risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+triplelift.com, 14716, RESELLER, 6c33edb13117fd86
+triplelift.com, 95054, RESELLER, 6c33edb13117fd86
+triplelift.com, 13042, RESELLER
+triplelift.com, 14127, RESELLER, 6c33edb13117fd86
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+appads.in, 106246, RESELLER
+smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
+smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
+blueseasx.com, 203625, RESELLER
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 mars.media, 1010442, RESELLER
 prado.co, 14260, RESELLER
 start.io, 197760873, RESELLER
@@ -1018,47 +1060,6 @@ admanmedia.com, 2242, RESELLER
 app-stock.com, 358747, RESELLER
 app-stock.com, 256917, RESELLER
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
-voisetech.com, 1066, RESELLER
-risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
-rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
-triplelift.com, 14594, RESELLER, 6c33edb13117fd86
-triplelift.com, 14716, RESELLER, 6c33edb13117fd86
-triplelift.com, 95054, RESELLER, 6c33edb13117fd86
-triplelift.com, 13042, RESELLER
-triplelift.com, 14127, RESELLER, 6c33edb13117fd86
-triplelift.com, 13883, RESELLER, 6c33edb13117fd86
-triplelift.com, 12908, RESELLER, 6c33edb13117fd86
-appads.in, 106246, RESELLER
-smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
-smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
-smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
-smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
-smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
-smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
-lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
-lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
-blueseasx.com, 203625, RESELLER
-toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 #unity end
 
 #Liftoff start
@@ -2172,6 +2173,10 @@ lijit.com, 516513, RESELLER, fafdf38b16bf6b2b
 appnexus.com, 15774, RESELLER
 fasttvltd.com, e689c0c2, RESELLER
 adtelligent.com, 788016, RESELLER, 8ce87912eb022a51
+tagoras.io,82f086910cc277680cae8f84f1570248, RESELLER
+admatic.de, ade-pub-618749601, RESELLER
+app-stock.com, 155886, RESELLER
+pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
 bigo.sg, 23172191, DIRECT
 #Bigo end
 
